@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"extrodius_soda:block/carbonator","y":90},"facing=north":{"model":"extrodius_soda:block/carbonator"},"facing=south":{"model":"extrodius_soda:block/carbonator","y":180},"facing=west":{"model":"extrodius_soda:block/carbonator","y":270}}}
